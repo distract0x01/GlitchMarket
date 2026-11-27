@@ -13,7 +13,7 @@ $result = $conn->query($query);
 <head>
     <meta charset="UTF-8">
     <title>GlitchMarket | Hardware Store</title>
-    <script src="https://tailwindcss.com"></script>
+    <script src="./tailwind.js"></script>
 </head>
 <body class="bg-gray-900 text-gray-100 font-sans">
     <nav class="bg-gray-800 p-4 border-b border-gray-700 flex justify-between items-center">
